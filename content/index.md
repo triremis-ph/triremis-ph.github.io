@@ -1,5 +1,10 @@
+--- 
+title: Triremis
+--- 
+
 # TRIREMES PH
 
+<!-- I am still working out the kinks and bends of this document, as I was blurting thoughts out and going ham here. Please bear with me, as I will be making revisions -->
 > **Trireme** (English) / **Triremes** (Latin) noun
 > *an ancient galley with three banks of oars, popularized by the Ancient Greeks and Romans.*
 
