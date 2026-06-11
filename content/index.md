@@ -21,10 +21,9 @@ For the longest time, students groups--such as clubs and organizations, have bee
 
 Triremis is still in its embryonic stage, I confess, we are but a friend group of three with a passion for working on technical projects, as well as being motivated to bring the banner of our region's pride and take a shot at hackathons. We hope to gather support from organizations like Google Developer Group Bacolod, ICpEP.se, and other circles to reach as many students as possible. By Q1 of 2027, we aim to join our first international hackathon. We want to make an example so that our peers can be inspired. We want to shatter the dogma that engaging with the international tech scene and contests is high-friction. We want to organize a community where we can coordinate and prepare for upcoming events and hackathons. We aim to raise a pocket of student developers who are confident in their abilities as we encourage each other to build and ship projects while still in the academia.
 
-%% The pronunciation guide has just been copy-pasted. This is to be revised. %%
-> **Triremes (English · /ˈtraɪriːm/ TRY-reems) / Triremes (Latin · /trɪˈreːmɪs/ tri-REE-mes)** 
-> *singular, plural*
-> an ancient galley with three banks of oars, popularized by the Ancient Greeks and Romans.
+> **Triremes (English · /ˈtraɪriːmz/ TRY-reems) / Triremes (Latin · /trɪˈreːmeːs/ tri-REE-mes)** 
+> *plural, noun*
+> ancient galleys with three banks of oars, popularized by the Ancient Greeks and Romans.
 
 While the keepsake of this guild, Triremis, is a singular noun in Latin, the simple act of changing a syllable transforms the definition of a single naval unit into a naval fleet. For now, we are the size of one ancient galley -- an indigent cluster. We believe that by starting local, we are able to best concentrate our efforts into building something that sails. Triremes on the other hand is pluralistic from a single-letter change. In the same manner, we believe that as the project grows, we welcome a larger community with open arms. Either way, Triremis will be the vessel to make this vision into reality.
 
