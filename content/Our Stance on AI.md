@@ -1,0 +1,15 @@
+# Stance on AI - Triremis Guild
+
+Triremis is an advocate of productive, conscious, and legally responsible use of artifical intelligence systems for local development. We believe that developers and builders are ultimately in control of how AI is being used in their day-to-day operations. Moreover, Triremis has to be transparent about its reservations, and we do have our reservations. 
+
+AI use has been a controversy, and Triremis intends to draw a line. Given the advent of this technology, getting started with building and development has been significantly lowered. Despite the divisive nature of LLMs (Large Language Models) applied in the field of technology, we find that it is a net benefit for its sheer ability to lower the floor for programming and coding. This aligns with our goal of creating representation and serving the underserved pocket of students developers in the Philippines.
+
+Agentic harnesses and AI integration in IDEs allows one to handle tedious tasks such as writing boilerplate code, rapid prototyping, making tests, serving as a learning assistant in environments that would otherwise be considered intimidating, and many more applications. Conversely, it can also produce a phenomenon where a developer spirals heavily relying on the AI system to produce the lines of code. This can cause a drift in developers’ understanding of the codebase. A consequence of this is design patterns that are difficult to manage, as well as a continuous loop of overreliance an LLM just for operations that would otherwise have been basic. 
+
+The negatives of such systems are amplified for student developers, as AI tools can limit the opportunities for the acquisition of technical skills and understanding of first principles due to the abstractions happening. After all, technical debt compounds with interest.
+
+One must also consider AI-driven development is, for the most part, going to have its cost. Aside from the educational trade-offs, one must always weigh the benefits of AI in development with the financial realities. Triremis, for its part, advocates doing more with less. We do not promote the idea of “tokenmaxxing” period.
+
+Lastly, we need to address the legal matters of using LLMs. Just because projects on the internet are open-source and public does not mean they are completely free to use without legal insulation. Artificial intelligence is trained on almost the entire internet. They have indexed code from what is available in the training data. But because of the size of these training data, embedded within the model is code that is subject to strict proprietary and restricted copyleft licenses. In circumstances where an AI generates these snippets of code, there is a real risk of legal action from the owner of the code or the larger codebase. Therefore, it is part of the developers’ responsibility to audit their code and mitigate the risks that come with the AI-driven development.
+
+We hope this sets a clear boundary for how Triremis intends to handle AI moving forward. Thank you 
