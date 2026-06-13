@@ -1,3 +1,18 @@
-@use "./variables.scss" as *;
-
-// put your custom CSS here!
+/* Replace "Created with Quartz" with Triremis Copyright */
+footer {
+  & > *:first-child {
+    visibility: hidden;
+    position: relative;
+    
+    &::after {
+      content: "© 2026 Triremis Guild";
+      visibility: visible;
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 100%;
+      text-align: center;
+      font-size: 1rem;
+    }
+  }
+}
