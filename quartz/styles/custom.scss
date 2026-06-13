@@ -1,0 +1,12 @@
+/* Replace "Created with Quartz" with Triremis Copyright without disrupting layout */
+footer {
+  & > *:first-child {
+    font-size: 0 !important;
+    
+    &::after {
+      content: "© 2026 Triremis Guild";
+      font-size: 1rem !important;
+      display: inline;
+    }
+  }
+}
