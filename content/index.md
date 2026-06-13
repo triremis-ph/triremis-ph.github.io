@@ -8,9 +8,7 @@ title: Triremis Home
 > *singular, noun*
 > an ancient galley with three banks of oars, popularized by the Ancient Greeks and Romans.
 
-<div style="text-align: center;">
-<img src = "https://avatars.githubusercontent.com/u/291733591?s=128&v=4" style="display: block; margin-left: auto; margin-right: auto;">
-</div>
+![[triremis-banner.png]]
 
 
 Just as the Greeks and the Romans sailed the open sea to fight wars, Triremis aims to sail the landscape of Philippine academia and tech industry. Unlike these ancient people, we have no wars to win. What we do have is a mission to champion: providing more regional representation and opportunities for students to grow outside their course syllabus. 
